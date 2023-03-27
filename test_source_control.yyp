@@ -34,6 +34,8 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+    {"id":{"name":"testing_sprite","path":"sprites/testing_sprite/testing_sprite.yy",},},
+    {"id":{"name":"testing_object","path":"objects/testing_object/testing_object.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
